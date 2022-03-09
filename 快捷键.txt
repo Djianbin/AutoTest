@@ -1,0 +1,15 @@
+Shift + enter   换行
+Ctrl  + /  单行注释
+Alt + /    自动补全
+Ctrl + Shift + F 代码格式化  或右键（Source----Format）
+Ctrl + Shift + / 多行注释
+Ctrl + Shift + \ 取消多行注释
+Ctrl + Shift + o 导入包快捷键
+Alt + 上下箭头   异动当前代码
+Ctrl + Alt + 上下箭头  复制当前代码行
+Ctrl + D 删除当前行
+Ctrl + 1 提示意见功能
+
+私有属性中get、set方法快速创建  右键——Source——Generate Getters and Setters
+
+Ctrl + t  查看类的继承关系
